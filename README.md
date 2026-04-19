@@ -1,4 +1,4 @@
-# ✂️ TrimTime – Barber Booking App
+# Neomies – Barber Booking App
 
 🔗 Live Demo: https://trimtimesalon.netlify.app/
 
